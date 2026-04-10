@@ -977,6 +977,16 @@ window.URLS = [
 "https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_march_26.webp",
 "https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_march_27.webp",
 "https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_march_27a.webp",
-
+"https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_april_01.webp",
+"https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_april_02.webp",
+"https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_april_03.webp",
+"https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_april_04.webp",
+"https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_april_05.webp",
+"https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_april_06.webp",
+"https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_april_07.webp",
+"https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_april_08.webp",
+"https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_april_09.webp",
+"https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_april_10.webp",
+"https://cdn.jsdelivr.net/gh/ElloErin/Sketchbook-Assets/2026/2026_april_11.webp",
         
       ];
